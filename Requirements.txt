@@ -1,6 +1,4 @@
-Requirements:
-
-- Python 3.7 or above
-- Streamlit
-- SpeechRecognition
-- PyDub
+python>=3.7
+streamlit
+speechrecognition
+pydub
